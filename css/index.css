@@ -1,0 +1,15 @@
+body {
+    background-image: url(../IMG/Bai3/background.jpg);
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+
+.main-content {
+    width: 900px;
+    height: 500px;
+    
+ }
+
+ 
+

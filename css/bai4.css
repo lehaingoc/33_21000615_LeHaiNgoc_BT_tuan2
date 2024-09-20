@@ -1,0 +1,73 @@
+body {
+    padding: 20px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+
+}
+
+.main-content {
+    width: 890px;
+    height: 500px;
+    background-color: #FFFFFF;
+    border: 3px solid rgb(159, 54, 54);
+}
+
+.main-contain a {
+    text-decoration: none;
+}
+
+.header img {
+    height: 60px;
+    margin-left: 603px;
+}
+
+.nav1 {
+    width: 185px;
+    height: 421px;
+    background-image: url(../IMG/Bai4/back.jpg);
+    float: left;
+}
+
+.nav2 {
+    width: 700px;
+    height: 500px;
+     float: left;
+}
+
+.header_1 {
+    height: 52px;
+ }
+
+.header_1 h1 {
+    font-size: 10px;
+}
+
+.selection {
+    width: 494px;
+    height: 163px;
+    float: left;
+
+}
+.selection_0{
+    width: 6px;
+    height: 163px;
+    float: left;
+}
+.selection h1 {
+    font-size: 15px;
+}
+
+.selection_1 {
+    border: 5px solid red;
+    width: 190px;
+    height: 163px;
+    background-color: bisque;
+    float: left;
+
+}
+
+
+.selection_1 h2 {
+    font-size: 10px;
+}

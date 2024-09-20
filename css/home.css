@@ -1,0 +1,112 @@
+body {
+    padding: 20px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    background-image: url(../IMG/Bai3/background.jpg);
+
+}
+
+.main-content {
+    width: 890px;
+    /* height: 500px; */
+    /* background-color: #FFFFFF;
+    border: 3px solid rgb(159, 54, 54); */
+}
+
+.main-contain a {
+    text-decoration: none;
+}
+
+.header img {
+    height: 100px;
+}
+
+/* NAV */
+.nav1 {
+    width: 185px;
+    height: 843px;
+    float: left;
+    border-right: 3px inset #2ab935;
+}
+
+.Home {
+    width: 161px;
+    height: 151px;
+    background-color: #FFFFFF;
+    border-style: outset;
+    border-width: 5px;
+ }
+.Home ul li a {
+    text-decoration: none;
+}
+.Home ul li {
+    list-style: none;
+    margin: 6px;
+    color: blueviolet;
+    margin-left: -22px;
+}
+
+.nav2 {
+    width: 700px;
+    height: 500px;
+    float: left;
+}
+
+.heading {
+    background-color: aquamarine;
+}
+
+.header_1 {
+    height: 52px;
+}
+
+.header_1 h1 {
+    font-size: 33px;
+    color: #FFFFFF;
+}
+
+.selection {
+    width: 494px;
+    /* height: 233px; */
+    float: left;
+
+}
+
+.selection_0 {
+    width: 6px;
+    height: 163px;
+    float: left;
+}
+
+.selection h1 {
+    font-size: 15px;
+    color: #FFFFFF;
+
+}
+
+.selection_1 {
+    /* border: 5px solid red; */
+    width: 190px;
+    /* height: 233px; */
+    background-color: bisque;
+    float: left;
+
+}
+
+
+.selection_1 h2 {
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+#heading_1 {
+    background-color: aquamarine;
+    width: 420px;
+    list-style: none;
+}
+
+.heading_1 li {
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 80%;
+    height: 400px;
+    margin: 50px auto;
+    border: 1px solid red;
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid rgb(31, 145, 45);
+}
+
+.title h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(145, 31, 31);
+    text-shadow: 2px 2px 2px rgb(31, 145, 45);
+}
+
+.navbar {
+    width: 100%;
+
+    border-bottom: 1px solid rgb(31, 145, 45);
+}
+
+.navbar ul {
+    display: flex;
+    width: 30%;
+    justify-content: flex-end;
+    list-style: none;
+
+}
+
+.navbar ul li {
+    padding: 0 4px 0 4px;
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(31, 44, 145);
+    cursor: pointer;
+}
+
+.starter {
+    width: 100%;
+}
+
+.starter h2 {
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(145, 31, 31);
+    background-color: antiquewhite;
+}
+
+.starter ul {
+    margin-left: 40px;
+}
+
+.starter ul li {
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+.starter ul li:nth-child(3) {
+    color: rgb(241, 137, 33);
+
+}
+
+.starter ul li span {
+
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+
+.Desserts {
+    width: 100%;
+}
+
+.Desserts h2 {
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(145, 31, 31);
+    background-color: antiquewhite;
+}
+
+.Desserts ul {
+    margin-left: 40px;
+}
+
+.Desserts ul li {
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+
+
+.Desserts ul li span {
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+
+span {
+    color: rgb(255, 0, 0);
+    font-weight: 600;
+    text-decoration: underline;
+}
